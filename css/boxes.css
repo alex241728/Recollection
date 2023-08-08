@@ -1,0 +1,1056 @@
+.box-1 .rectangle-1
+{
+    position: absolute;
+    left: 11%;
+    top: 35%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-1 .image-1
+{
+    position: absolute;
+    left: 11%;
+    top: 35%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-1 .text-1
+{
+    position: absolute;
+    left: 11%;
+    top: 75%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-1 .rectangle-2
+{
+    position: absolute;
+    left: 11%;
+    top: 35%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-1 .rectangle-3 
+{
+    display: none;
+}
+
+.box-1 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-1 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-1 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-2 .rectangle-1
+{
+    position: absolute;
+    left: 37.66%;
+    top: 35%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-2 .image-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 35%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-2 .text-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 75%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-2 .rectangle-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 35%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-2 .rectangle-3 
+{
+    display: none;
+}
+
+.box-2 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-2 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-2 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+
+.box-3 .rectangle-1
+{
+    position: absolute;
+    left: 64.32%;
+    top: 35%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-3 .image-3
+{
+    position: absolute;
+    left: 64.32%;
+    top: 35%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-3 .text-3
+{
+    position: absolute;
+    left: 64.32%;
+    top: 75%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-3 .rectangle-2
+{
+    position: absolute;
+    left: 64.32%;
+    top: 35%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-3 .rectangle-3 
+{
+    display: none;
+}
+
+.box-3 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-3 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-3 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-4 .rectangle-1
+{
+    position: absolute;
+    left: 11%;
+    top: 92%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-4 .image-4
+{
+    position: absolute;
+    left: 11%;
+    top: 92%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-4 .text-4
+{
+    position: absolute;
+    left: 11%;
+    top: 132%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-4 .rectangle-2
+{
+    position: absolute;
+    left: 11%;
+    top: 92%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-4 .rectangle-3 
+{
+    display: none;
+}
+
+.box-4 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-4 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-4 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-5 .rectangle-1
+{
+    position: absolute;
+    left: 37.66%;
+    top: 92%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-5 .image-5
+{
+    position: absolute;
+    left: 37.66%;
+    top: 92%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-5 .text-5
+{
+    position: absolute;
+    left: 37.66%;
+    top: 132%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-5 .rectangle-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 92%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-5 .rectangle-3 
+{
+    display: none;
+}
+
+.box-5 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-5 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-5 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-6 .rectangle-1
+{
+    position: absolute;
+    left: 64.32%;
+    top: 92%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-6 .image-6
+{
+    position: absolute;
+    left: 64.32%;
+    top: 92%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-6 .text-6
+{
+    position: absolute;
+    left: 64.32%;
+    top: 132%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-6 .rectangle-2
+{
+    position: absolute;
+    left: 64.32%;
+    top: 92%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-6 .rectangle-3 
+{
+    display: none;
+}
+
+.box-6 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-6 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-6 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-7 .rectangle-1
+{
+    position: absolute;
+    left: 11%;
+    top: 149%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-7 .image-7
+{
+    position: absolute;
+    left: 11%;
+    top: 149%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-7 .text-7
+{
+    position: absolute;
+    left: 11%;
+    top: 189%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-7 .rectangle-2
+{
+    position: absolute;
+    left: 11%;
+    top: 149%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-7 .rectangle-3 
+{
+    display: none;
+}
+
+.box-7 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-7 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-7 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-8 .rectangle-1
+{
+    position: absolute;
+    left: 37.66%;
+    top: 149%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-8 .image-8
+{
+    position: absolute;
+    left: 37.66%;
+    top: 149%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-8 .text-8
+{
+    position: absolute;
+    left: 37.66%;
+    top: 189%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-8 .rectangle-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 149%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-8 .rectangle-3 
+{
+    display: none;
+}
+
+.box-8 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-8 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-8 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-9 .rectangle-1
+{
+    position: absolute;
+    left: 64.32%;
+    top: 149%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-9 .image-9
+{
+    position: absolute;
+    left: 64.32%;
+    top: 149%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-9 .text-9
+{
+    position: absolute;
+    left: 64.32%;
+    top: 189%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-9 .rectangle-2
+{
+    position: absolute;
+    left: 64.32%;
+    top: 149%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-9 .rectangle-3 
+{
+    display: none;
+}
+
+.box-9 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-9 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-9 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-10 .rectangle-1
+{
+    position: absolute;
+    left: 11%;
+    top: 206%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-10 .image-10
+{
+    position: absolute;
+    left: 11%;
+    top: 206%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-10 .text-10
+{
+    position: absolute;
+    left: 11%;
+    top: 246%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-10 .rectangle-2
+{
+    position: absolute;
+    left: 11%;
+    top: 206%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-10 .rectangle-3 
+{
+    display: none;
+}
+
+.box-10 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-10 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-10 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-11 .rectangle-1
+{
+    position: absolute;
+    left: 37.66%;
+    top: 206%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-11 .image-11
+{
+    position: absolute;
+    left: 37.66%;
+    top: 206%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-11 .text-11
+{
+    position: absolute;
+    left: 37.66%;
+    top: 246%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-11 .rectangle-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 206%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-11 .rectangle-3 
+{
+    display: none;
+}
+
+.box-11 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-11 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-11 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-12 .rectangle-1
+{
+    position: absolute;
+    left: 64.32%;
+    top: 206%;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 50%;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-12 .image-12
+{
+    position: absolute;
+    left: 64.32%;
+    top: 206%;
+    width: 24.66%;
+    height: 36%;
+    z-index: 3;
+}
+
+.box-12 .text-12
+{
+    position: absolute;
+    left: 64.32%;
+    top: 246%;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-12 .rectangle-2
+{
+    position: absolute;
+    left: 64.32%;
+    top: 206%;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 36%;
+    z-index: 4;
+}
+
+.box-12 .rectangle-3 
+{
+    display: none;
+}
+
+.box-12 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-12 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    width: 50%;
+    height: 20%;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-12 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}

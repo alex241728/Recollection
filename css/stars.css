@@ -1,0 +1,98 @@
+.stars-1
+{
+    position: absolute;
+    left: 0%;
+    top: 23.21%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-2
+{
+    position: absolute;
+    right: 0%;
+    top: 0%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-3
+{
+    position: absolute;
+    right: 0%;
+    top: 53%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-4
+{
+    position: absolute;
+    right: 0%;
+    top: 100%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-5
+{
+    position: absolute;
+    left: 0%;
+    top: 123.21%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-6
+{
+    position: absolute;
+    right: 0%;
+    top: 153%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-7
+{
+    position: absolute;
+    right: 0%;
+    top: 200%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-8
+{
+    position: absolute;
+    left: 0%;
+    top: 223.21%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-9
+{
+    position: absolute;
+    right: 0%;
+    top: 253%;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
