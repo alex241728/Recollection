@@ -2,7 +2,7 @@
 {
     position: absolute;
     left: 0%;
-    top: 23.21%;
+    top: 300px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -13,7 +13,7 @@
 {
     position: absolute;
     right: 0%;
-    top: 0%;
+    top: 0px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -24,7 +24,7 @@
 {
     position: absolute;
     right: 0%;
-    top: 53%;
+    top: 600px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -34,8 +34,8 @@
 .stars-4
 {
     position: absolute;
-    right: 0%;
-    top: 100%;
+    left: 0%;
+    top: 1300px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -45,8 +45,8 @@
 .stars-5
 {
     position: absolute;
-    left: 0%;
-    top: 123.21%;
+    right: 0%;
+    top: 1000px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -57,7 +57,7 @@
 {
     position: absolute;
     right: 0%;
-    top: 153%;
+    top: 1600px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -67,8 +67,8 @@
 .stars-7
 {
     position: absolute;
-    right: 0%;
-    top: 200%;
+    left: 0%;
+    top: 2300px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -78,8 +78,8 @@
 .stars-8
 {
     position: absolute;
-    left: 0%;
-    top: 223.21%;
+    right: 0%;
+    top: 2000px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;
@@ -90,7 +90,29 @@
 {
     position: absolute;
     right: 0%;
-    top: 253%;
+    top: 2600px;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-10
+{
+    position: absolute;
+    left: 0%;
+    top: 3300px;
+    opacity: 0.3;
+    width: 23.09%;
+    height: auto;
+    z-index: 1;
+}
+
+.stars-11
+{
+    position: absolute;
+    right: 0%;
+    top: 3000px;
     opacity: 0.3;
     width: 23.09%;
     height: auto;

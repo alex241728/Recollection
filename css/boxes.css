@@ -1,36 +1,48 @@
+.container
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 80%;
+    height: 2000px;
+    position: absolute;
+    left: 10%;
+    top: 340px;
+}
+
 .box-1 .rectangle-1
 {
     position: absolute;
-    left: 11%;
-    top: 35%;
+    left: 0%;
+    top: 0px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-1 .image-1
+.box-1 .image
 {
     position: absolute;
-    left: 11%;
-    top: 35%;
+    left: 0%;
+    top: 0px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-1 .text-1
+.box-1 .text
 {
     position: absolute;
-    left: 11%;
-    top: 75%;
+    left: 0%;
+    top: 315px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -40,11 +52,11 @@
 .box-1 .rectangle-2
 {
     position: absolute;
-    left: 11%;
-    top: 35%;
+    left: 0%;
+    top: 0px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -64,9 +76,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -90,35 +102,34 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 35%;
+    top: 0px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-2 .image-2
+.box-2 .image
 {
     position: absolute;
     left: 37.66%;
-    top: 35%;
+    top: 0px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-2 .text-2
+.box-2 .text
 {
     position: absolute;
     left: 37.66%;
-    top: 75%;
+    top: 315px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -129,10 +140,10 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 35%;
+    top: 0px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -152,9 +163,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -174,40 +185,38 @@
     z-index: 5;
 }
 
-
 .box-3 .rectangle-1
 {
     position: absolute;
-    left: 64.32%;
-    top: 35%;
+    left: 75.32%;
+    top: 0px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-3 .image-3
+.box-3 .image
 {
     position: absolute;
-    left: 64.32%;
-    top: 35%;
+    left: 75.32%;
+    top: 0px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-3 .text-3
+.box-3 .text
 {
     position: absolute;
-    left: 64.32%;
-    top: 75%;
+    left: 75.32%;
+    top: 315px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -217,11 +226,11 @@
 .box-3 .rectangle-2
 {
     position: absolute;
-    left: 64.32%;
-    top: 35%;
+    left: 75.32%;
+    top: 0px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -241,9 +250,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -266,36 +275,35 @@
 .box-4 .rectangle-1
 {
     position: absolute;
-    left: 11%;
-    top: 92%;
+    left: 0%;
+    top: 580px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-4 .image-4
+.box-4 .image
 {
     position: absolute;
-    left: 11%;
-    top: 92%;
+    left: 0%;
+    top: 580px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-4 .text-4
+.box-4 .text
 {
     position: absolute;
-    left: 11%;
-    top: 132%;
+    left: 0%;
+    top: 895px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -305,11 +313,11 @@
 .box-4 .rectangle-2
 {
     position: absolute;
-    left: 11%;
-    top: 92%;
+    left: 0%;
+    top: 580px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -329,9 +337,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -355,35 +363,34 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 92%;
+    top: 580px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-5 .image-5
+.box-5 .image
 {
     position: absolute;
     left: 37.66%;
-    top: 92%;
+    top: 580px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-5 .text-5
+.box-5 .text
 {
     position: absolute;
     left: 37.66%;
-    top: 132%;
+    top: 895px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -394,10 +401,10 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 92%;
+    top: 580px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -417,9 +424,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -442,36 +449,35 @@
 .box-6 .rectangle-1
 {
     position: absolute;
-    left: 64.32%;
-    top: 92%;
+    left: 75.32%;
+    top: 580px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-6 .image-6
+.box-6 .image
 {
     position: absolute;
-    left: 64.32%;
-    top: 92%;
+    left: 75.32%;
+    top: 580px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-6 .text-6
+.box-6 .text
 {
     position: absolute;
-    left: 64.32%;
-    top: 132%;
+    left: 75.32%;
+    top: 895px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -481,11 +487,11 @@
 .box-6 .rectangle-2
 {
     position: absolute;
-    left: 64.32%;
-    top: 92%;
+    left: 75.32%;
+    top: 580px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -505,9 +511,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -530,36 +536,35 @@
 .box-7 .rectangle-1
 {
     position: absolute;
-    left: 11%;
-    top: 149%;
+    left: 0%;
+    top: 1160px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-7 .image-7
+.box-7 .image
 {
     position: absolute;
-    left: 11%;
-    top: 149%;
+    left: 0%;
+    top: 1160px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-7 .text-7
+.box-7 .text
 {
     position: absolute;
-    left: 11%;
-    top: 189%;
+    left: 0%;
+    top: 1475px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -569,11 +574,11 @@
 .box-7 .rectangle-2
 {
     position: absolute;
-    left: 11%;
-    top: 149%;
+    left: 0%;
+    top: 1160px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -593,9 +598,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -619,35 +624,34 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 149%;
+    top: 1160px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-8 .image-8
+.box-8 .image
 {
     position: absolute;
     left: 37.66%;
-    top: 149%;
+    top: 1160px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-8 .text-8
+.box-8 .text
 {
     position: absolute;
     left: 37.66%;
-    top: 189%;
+    top: 1475px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -658,10 +662,10 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 149%;
+    top: 1160px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -681,9 +685,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -706,36 +710,35 @@
 .box-9 .rectangle-1
 {
     position: absolute;
-    left: 64.32%;
-    top: 149%;
+    left: 75.32%;
+    top: 1160px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-9 .image-9
+.box-9 .image
 {
     position: absolute;
-    left: 64.32%;
-    top: 149%;
+    left: 75.32%;
+    top: 1160px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-9 .text-9
+.box-9 .text
 {
     position: absolute;
-    left: 64.32%;
-    top: 189%;
+    left: 75.32%;
+    top: 1475px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -745,11 +748,11 @@
 .box-9 .rectangle-2
 {
     position: absolute;
-    left: 64.32%;
-    top: 149%;
+    left: 75.32%;
+    top: 1160px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -769,9 +772,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -794,36 +797,35 @@
 .box-10 .rectangle-1
 {
     position: absolute;
-    left: 11%;
-    top: 206%;
+    left: 0%;
+    top: 1740px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-10 .image-10
+.box-10 .image
 {
     position: absolute;
-    left: 11%;
-    top: 206%;
+    left: 0%;
+    top: 1740px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-10 .text-10
+.box-10 .text
 {
     position: absolute;
-    left: 11%;
-    top: 246%;
+    left: 0%;
+    top: 2055px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -833,11 +835,11 @@
 .box-10 .rectangle-2
 {
     position: absolute;
-    left: 11%;
-    top: 206%;
+    left: 0%;
+    top: 1740px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -857,9 +859,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -883,35 +885,34 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 206%;
+    top: 1740px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-11 .image-11
+.box-11 .image
 {
     position: absolute;
     left: 37.66%;
-    top: 206%;
+    top: 1740px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-11 .text-11
+.box-11 .text
 {
     position: absolute;
     left: 37.66%;
-    top: 246%;
+    top: 2055px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -922,10 +923,10 @@
 {
     position: absolute;
     left: 37.66%;
-    top: 206%;
+    top: 1740px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -945,9 +946,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -970,36 +971,35 @@
 .box-12 .rectangle-1
 {
     position: absolute;
-    left: 64.32%;
-    top: 206%;
+    left: 75.32%;
+    top: 1740px;
     background: #F8FEFF;
     width: 24.66%;
-    height: 50%;
+    height: 400px;
     box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
     z-index: 2;
 }
 
-.box-12 .image-12
+.box-12 .image
 {
     position: absolute;
-    left: 64.32%;
-    top: 206%;
+    left: 75.32%;
+    top: 1740px;
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 3;
 }
 
-.box-12 .text-12
+.box-12 .text
 {
     position: absolute;
-    left: 64.32%;
-    top: 246%;
+    left: 75.32%;
+    top: 2055px;
     width: 24.66%;
     height: auto;
     z-index: 3;
     color: #000;
     font-family: Inter;
-    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
@@ -1009,11 +1009,11 @@
 .box-12 .rectangle-2
 {
     position: absolute;
-    left: 64.32%;
-    top: 206%;
+    left: 75.32%;
+    top: 1740px;
     background: rgba(255, 255, 255, 0);
     width: 24.66%;
-    height: 36%;
+    height: 300px;
     z-index: 4;
 }
 
@@ -1033,9 +1033,9 @@
 {
     position: absolute;
     left: 25%;
-    top: 40%;
+    top: 135px;
     width: 50%;
-    height: 20%;
+    height: auto;
     border-radius: 16%;
     border: 3px solid #B2AF5D;
     z-index: 5;
@@ -1044,6 +1044,267 @@
 }
 
 .box-12 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-13 .rectangle-1
+{
+    position: absolute;
+    left: 0%;
+    top: 2320px;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 400px;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-13 .image
+{
+    position: absolute;
+    left: 0%;
+    top: 2320px;
+    width: 24.66%;
+    height: 300px;
+    z-index: 3;
+}
+
+.box-13 .text
+{
+    position: absolute;
+    left: 0%;
+    top: 2635px;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-13 .rectangle-2
+{
+    position: absolute;
+    left: 0%;
+    top: 2320px;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 300px;
+    z-index: 4;
+}
+
+.box-13 .rectangle-3 
+{
+    display: none;
+}
+
+.box-13 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-13 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 135px;
+    width: 50%;
+    height: auto;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-13 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-14 .rectangle-1
+{
+    position: absolute;
+    left: 37.66%;
+    top: 2320px;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 400px;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-14 .image
+{
+    position: absolute;
+    left: 37.66%;
+    top: 2320px;
+    width: 24.66%;
+    height: 300px;
+    z-index: 3;
+}
+
+.box-14 .text
+{
+    position: absolute;
+    left: 37.66%;
+    top: 2635px;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-14 .rectangle-2
+{
+    position: absolute;
+    left: 37.66%;
+    top: 2320px;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 300px;
+    z-index: 4;
+}
+
+.box-14 .rectangle-3 
+{
+    display: none;
+}
+
+.box-14 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-14 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 135px;
+    width: 50%;
+    height: auto;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-14 .rectangle-3 .text-wrapper
+{
+    color: #B2AF5D;
+    text-align: center;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    z-index: 5;
+}
+
+.box-15 .rectangle-1
+{
+    position: absolute;
+    left: 75.32%;
+    top: 2320px;
+    background: #F8FEFF;
+    width: 24.66%;
+    height: 400px;
+    box-shadow: 10px 14px 5px 0px rgba(255, 255, 255, 0.20);
+    z-index: 2;
+}
+
+.box-15 .image
+{
+    position: absolute;
+    left: 75.32%;
+    top: 2320px;
+    width: 24.66%;
+    height: 300px;
+    z-index: 3;
+}
+
+.box-15 .text
+{
+    position: absolute;
+    left: 75.32%;
+    top: 2635px;
+    width: 24.66%;
+    height: auto;
+    z-index: 3;
+    color: #000;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+.box-15 .rectangle-2
+{
+    position: absolute;
+    left: 75.32%;
+    top: 2320px;
+    background: rgba(255, 255, 255, 0);
+    width: 24.66%;
+    height: 300px;
+    z-index: 4;
+}
+
+.box-15 .rectangle-3 
+{
+    display: none;
+}
+
+.box-15 .rectangle-2:hover
+{
+    background: rgba(255, 253, 205, 0.60);
+    z-index: 5;
+    transition: background-color 0.3s ease;
+}
+
+.box-15 .rectangle-2:hover .rectangle-3
+{
+    position: absolute;
+    left: 25%;
+    top: 135px;
+    width: 50%;
+    height: auto;
+    border-radius: 16%;
+    border: 3px solid #B2AF5D;
+    z-index: 5;
+    display: block;
+    cursor: pointer;
+}
+
+.box-15 .rectangle-3 .text-wrapper
 {
     color: #B2AF5D;
     text-align: center;

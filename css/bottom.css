@@ -1,11 +1,11 @@
-.bottom .rectangle
+.bottom
 {
     position: absolute;
     left: 0%;
-    top: 279%;
+    top: 3320px;
     background: #F8FEFF;
     width: 100%;
-    height: 35%;
+    height: 350px;
     z-index: 2;
 }
 
@@ -13,7 +13,7 @@
 {
     position: absolute;
     left: 11%;
-    top: 290%;
+    top: 90px;
     width: 17.46%;
     height: auto;
     z-index: 3;
@@ -23,7 +23,7 @@
 {
     position: absolute;
     left: 11%;
-    top: 298%;
+    top: 180px;
     width: 2.73%;
     height: auto;
     z-index: 3;
@@ -33,7 +33,7 @@
 {
     position: absolute;
     left: 14%;
-    top: 298%;
+    top: 180px;
     width: 2.73%;
     height: auto;
     z-index: 3;
@@ -43,55 +43,23 @@
 {
     position: absolute;
     left: 17%;
-    top: 298%;
+    top: 180px;
     width: 2.73%;
     height: auto;
     z-index: 3;
 }
 
-.bottom .text-1
+.bottom .text
 {
     color: #454545;
     font-family: HONOR Sans;
-    font-size: 120%;
+    font-size: 25px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
     position: absolute;
     left: 35%;
-    top: 288%;
-    width: auto;
-    height: auto;
-    z-index: 3;
-}
-
-.bottom .text-2
-{
-    color: #454545;
-    font-family: HONOR Sans;
-    font-size: 120%;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    position: absolute;
-    left: 35%;
-    top: 293%;
-    width: auto;
-    height: auto;
-    z-index: 3;
-}
-
-.bottom .text-3
-{
-    color: #454545;
-    font-family: HONOR Sans;
-    font-size: 120%;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    position: absolute;
-    left: 35%;
-    top: 298%;
+    top: 100px;
     width: auto;
     height: auto;
     z-index: 3;
@@ -101,8 +69,8 @@
 {
     position: absolute;
     right: 7%;
-    top: 289%;
-    width: auto;
-    height: 10%;
+    top: 80px;
+    width: 30%;
+    height: auto;
     z-index: 3;
 }
